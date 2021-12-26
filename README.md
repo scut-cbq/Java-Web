@@ -4,7 +4,7 @@
 
 ## 目录结构
 src：Servlet和各种Java类  
-web：存放jsp、css、image等文件
+web：存放jsp、css、image等文件  
 web/WEB-INF: libraries和web.xml  
 
 ## 测试账号
