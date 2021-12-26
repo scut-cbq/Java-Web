@@ -3,9 +3,9 @@
 姓名：陈泊圻
 
 ## 目录结构
-lib：使用的libraries  
 src：Servlet和各种Java类  
 web：存放jsp、css、image等文件
+web/WEB-INF: libraries和web.xml  
 
 ## 测试账号
 服务器IP及密码：见实验报告  
